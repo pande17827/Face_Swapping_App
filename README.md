@@ -2,7 +2,7 @@
 
 <h1 align="center">Face Swapping App</h1>
 <p align="center">
-<i>Personalized movie curator, suggesting tailored film selections based on your preferences, ensuring every movie night is a blockbuster hit!</i><br></p>
+<i>Lets you seamlessly blend faces for hilarious and creative results! With FaceSwappingApp, you can swap faces with friends, family, celebrities, or even pets in just a few taps.</i><br></p>
 
 
 ## Installation
@@ -10,7 +10,7 @@
 Use the package manager [pip](https://pip.pypa.io/en/stable/)
 
 ```bash
-  pip install altair numpy pandas pydeck streamlit
+  pip install CMake opencv-python numpy dlib Pillow
 ```
 
 
