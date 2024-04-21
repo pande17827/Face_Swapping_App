@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/pande17827/Face_Swapping_App/blob/main/banner.jpg"></p>
+<p align="center"><img src="https://github.com/pande17827/Face_Swapping_App/blob/main/App-with-face-recognition.jpg"></p>
 
 <h1 align="center">Face Swapping App</h1>
 <p align="center">
